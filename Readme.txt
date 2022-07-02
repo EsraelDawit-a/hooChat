@@ -1,6 +1,6 @@
-# Realtime Video Chat Application https://hoochat-esrael.vercel.app/
+# Realtime Video Chat Application 
 
-Project Preview here https://react-js-product-detail-page.vercel.app/
+Project Preview here https://hoochat-esrael.vercel.app/
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
